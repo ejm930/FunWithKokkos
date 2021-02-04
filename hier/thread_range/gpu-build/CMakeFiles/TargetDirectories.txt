@@ -1,0 +1,3 @@
+/home/erock/Documents/Code/FunWithKokkos/hier/thread_range/gpu-build/CMakeFiles/rebuild_cache.dir
+/home/erock/Documents/Code/FunWithKokkos/hier/thread_range/gpu-build/CMakeFiles/thread_teams.dir
+/home/erock/Documents/Code/FunWithKokkos/hier/thread_range/gpu-build/CMakeFiles/edit_cache.dir

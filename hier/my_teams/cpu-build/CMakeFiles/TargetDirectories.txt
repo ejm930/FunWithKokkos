@@ -1,0 +1,3 @@
+/home/erock/Documents/Code/FunWithKokkos/hier/my_teams/cpu-build/CMakeFiles/rebuild_cache.dir
+/home/erock/Documents/Code/FunWithKokkos/hier/my_teams/cpu-build/CMakeFiles/my_teams.dir
+/home/erock/Documents/Code/FunWithKokkos/hier/my_teams/cpu-build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/home/erock/Documents/Code/FunWithKokkos/kokkos/bin/nvcc_wrapper     CMakeFiles/cajete_test.dir/src/cajete_test.cpp.o  -o cajete_test /home/erock/Documents/Code/FunWithKokkos/kokkos/gpu-build/install/lib/libkokkoscontainers.a /home/erock/Documents/Code/FunWithKokkos/kokkos/gpu-build/install/lib/libkokkoscore.a -lcuda /usr/lib/x86_64-linux-gnu/libdl.so -fopenmp 

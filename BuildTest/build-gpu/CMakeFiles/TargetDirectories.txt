@@ -1,0 +1,3 @@
+/home/erock/Documents/Code/FunWithKokkos/BuildTest/build-gpu/CMakeFiles/rebuild_cache.dir
+/home/erock/Documents/Code/FunWithKokkos/BuildTest/build-gpu/CMakeFiles/cool.dir
+/home/erock/Documents/Code/FunWithKokkos/BuildTest/build-gpu/CMakeFiles/edit_cache.dir

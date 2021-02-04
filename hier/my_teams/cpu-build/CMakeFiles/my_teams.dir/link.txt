@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/my_teams.dir/src/my_teams.cpp.o  -o my_teams /home/erock/Documents/Code/FunWithKokkos/kokkos/cpu-build/install/lib/libkokkoscontainers.a /home/erock/Documents/Code/FunWithKokkos/kokkos/cpu-build/install/lib/libkokkoscore.a /usr/lib/x86_64-linux-gnu/libdl.so -fopenmp 

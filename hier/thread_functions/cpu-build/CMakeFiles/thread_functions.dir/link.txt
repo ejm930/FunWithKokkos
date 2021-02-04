@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/thread_functions.dir/src/thread_functions.cpp.o  -o thread_functions /home/erock/Documents/Code/FunWithKokkos/kokkos/cpu-build/install/lib/libkokkoscontainers.a /home/erock/Documents/Code/FunWithKokkos/kokkos/cpu-build/install/lib/libkokkoscore.a /usr/lib/x86_64-linux-gnu/libdl.so -fopenmp 

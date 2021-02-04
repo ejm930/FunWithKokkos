@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp CMakeFiles/cool.dir/main.cpp.o  -o cool /home/erock/ExtraLibs/CajeteDepend/kokkos/cpu-build/install/lib/libkokkoscontainers.a /home/erock/ExtraLibs/CajeteDepend/kokkos/cpu-build/install/lib/libkokkoscore.a /usr/lib/x86_64-linux-gnu/libdl.so 
